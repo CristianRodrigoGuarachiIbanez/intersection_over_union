@@ -1,0 +1,12 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/IoU/__init__.py
+src/IoU/calculate_iou.py
+src/IoU.egg-info/PKG-INFO
+src/IoU.egg-info/SOURCES.txt
+src/IoU.egg-info/dependency_links.txt
+src/IoU.egg-info/not-zip-safe
+src/IoU.egg-info/requires.txt
+src/IoU.egg-info/top_level.txt

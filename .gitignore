@@ -1,0 +1,6 @@
+.coverage
+pip-wheel-metadata
+.tox
+.pytest_cache
+.mypy_cache
+

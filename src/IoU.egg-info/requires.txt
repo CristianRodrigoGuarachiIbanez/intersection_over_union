@@ -1,0 +1,10 @@
+numpy==1.22.4
+pandas==1.4.2
+cython==0.29.32
+
+[testing]
+pytest>=6.0
+pytest-cov>=2.0
+mypy>=0.910
+flake8>=3.9
+tox>=3.24
